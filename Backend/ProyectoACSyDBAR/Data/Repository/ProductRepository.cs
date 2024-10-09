@@ -4,7 +4,7 @@ using ProyectoACSyDBAR.Data.Repository.Interfaces;
 
 namespace ProyectoACSyDBAR.Data.Repository
 {
-    public class ProductRepository: IProductRepository
+    public class ProductRepository : IProductRepository
     {
         private readonly IMongoCollection<Producto> _productos;
 
@@ -16,9 +16,9 @@ namespace ProyectoACSyDBAR.Data.Repository
         }
 
         // Crear un producto
-        public async Task CreateProductAsync(Producto producto) 
+        public async Task CreateProductoAsync(Producto producto)
         {
-        
+
             await _productos.InsertOneAsync(producto);
 
         }
@@ -31,34 +31,25 @@ namespace ProyectoACSyDBAR.Data.Repository
         }
 
         // Obtener un producto por ID
-        public async Task<Producto> GetProductoByIdAsync(string id)
+        public async Task<Producto?> GetProductoByIdAsync(string id)
         {
             return await _productos.Find(producto => producto.Id == id).FirstOrDefaultAsync();
         }
 
         // Actualizar un producto
-        public async Task <bool> UpdateProductoAsync(string id, Producto producto)
+        public async Task<bool> UpdateProductoAsync(string id, Producto producto)
         {
             var result = await _productos.ReplaceOneAsync(p => p.Id == id, producto);
             return result.IsAcknowledged && result.ModifiedCount == 0;
         }
 
         // Eliminar un producto
-        public async Task <bool> DeleteProductAsync(string id)
+        public async Task<bool> DeleteProductoAsync(string id)
         {
             var result = await _productos.DeleteOneAsync(p => p.Id == id);
-            return result.IsAcknowledged && result.DeletedCount > 0;   
+            return result.IsAcknowledged && result.DeletedCount > 0;
         }
 
-        Task IProductRepository.CreateProductoAsync(Producto producto)
-        {
-            throw new NotImplementedException();
-        }
-
-        Task<bool> IProductRepository.DeleteProductoAsync(string id)
-        {
-            throw new NotImplementedException();
-        }
     }
-    }
+}
 

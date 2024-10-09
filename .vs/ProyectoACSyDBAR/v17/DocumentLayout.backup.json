@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SEBASTIAN\\source\\repos\\ProyectoACSyDBAR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BACCB455-6746-49B2-BFD6-0ED3ED6F41BE}|ProyectoACSyDBAR\\ProyectoACSyDBAR.csproj|c:\\users\\sebastian\\source\\repos\\proyectoacsydbar\\proyectoacsydbar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACCB455-6746-49B2-BFD6-0ED3ED6F41BE}|ProyectoACSyDBAR\\ProyectoACSyDBAR.csproj|solutionrelative:proyectoacsydbar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACCB455-6746-49B2-BFD6-0ED3ED6F41BE}|ProyectoACSyDBAR\\ProyectoACSyDBAR.csproj|c:\\users\\sebastian\\source\\repos\\proyectoacsydbar\\proyectoacsydbar\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACCB455-6746-49B2-BFD6-0ED3ED6F41BE}|ProyectoACSyDBAR\\ProyectoACSyDBAR.csproj|solutionrelative:proyectoacsydbar\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACCB455-6746-49B2-BFD6-0ED3ED6F41BE}|ProyectoACSyDBAR\\ProyectoACSyDBAR.csproj|c:\\users\\sebastian\\source\\repos\\proyectoacsydbar\\proyectoacsydbar\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACCB455-6746-49B2-BFD6-0ED3ED6F41BE}|ProyectoACSyDBAR\\ProyectoACSyDBAR.csproj|solutionrelative:proyectoacsydbar\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACCB455-6746-49B2-BFD6-0ED3ED6F41BE}|ProyectoACSyDBAR\\ProyectoACSyDBAR.csproj|c:\\users\\sebastian\\source\\repos\\proyectoacsydbar\\proyectoacsydbar\\data\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACCB455-6746-49B2-BFD6-0ED3ED6F41BE}|ProyectoACSyDBAR\\ProyectoACSyDBAR.csproj|solutionrelative:proyectoacsydbar\\data\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACCB455-6746-49B2-BFD6-0ED3ED6F41BE}|ProyectoACSyDBAR\\ProyectoACSyDBAR.csproj|c:\\users\\sebastian\\source\\repos\\proyectoacsydbar\\proyectoacsydbar\\dtos\\calculationsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACCB455-6746-49B2-BFD6-0ED3ED6F41BE}|ProyectoACSyDBAR\\ProyectoACSyDBAR.csproj|solutionrelative:proyectoacsydbar\\dtos\\calculationsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACCB455-6746-49B2-BFD6-0ED3ED6F41BE}|ProyectoACSyDBAR\\ProyectoACSyDBAR.csproj|c:\\users\\sebastian\\source\\repos\\proyectoacsydbar\\proyectoacsydbar\\dtos\\updateproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACCB455-6746-49B2-BFD6-0ED3ED6F41BE}|ProyectoACSyDBAR\\ProyectoACSyDBAR.csproj|solutionrelative:proyectoacsydbar\\dtos\\updateproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACCB455-6746-49B2-BFD6-0ED3ED6F41BE}|ProyectoACSyDBAR\\ProyectoACSyDBAR.csproj|c:\\users\\sebastian\\source\\repos\\proyectoacsydbar\\proyectoacsydbar\\data\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACCB455-6746-49B2-BFD6-0ED3ED6F41BE}|ProyectoACSyDBAR\\ProyectoACSyDBAR.csproj|solutionrelative:proyectoacsydbar\\data\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACCB455-6746-49B2-BFD6-0ED3ED6F41BE}|ProyectoACSyDBAR\\ProyectoACSyDBAR.csproj|c:\\users\\sebastian\\source\\repos\\proyectoacsydbar\\proyectoacsydbar\\data\\repository\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACCB455-6746-49B2-BFD6-0ED3ED6F41BE}|ProyectoACSyDBAR\\ProyectoACSyDBAR.csproj|solutionrelative:proyectoacsydbar\\data\\repository\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACCB455-6746-49B2-BFD6-0ED3ED6F41BE}|ProyectoACSyDBAR\\ProyectoACSyDBAR.csproj|c:\\users\\sebastian\\source\\repos\\proyectoacsydbar\\proyectoacsydbar\\controllers\\calculationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACCB455-6746-49B2-BFD6-0ED3ED6F41BE}|ProyectoACSyDBAR\\ProyectoACSyDBAR.csproj|solutionrelative:proyectoacsydbar\\controllers\\calculationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACCB455-6746-49B2-BFD6-0ED3ED6F41BE}|ProyectoACSyDBAR\\ProyectoACSyDBAR.csproj|c:\\users\\sebastian\\source\\repos\\proyectoacsydbar\\proyectoacsydbar\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACCB455-6746-49B2-BFD6-0ED3ED6F41BE}|ProyectoACSyDBAR\\ProyectoACSyDBAR.csproj|solutionrelative:proyectoacsydbar\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SEBASTIAN\\source\\repos\\ProyectoACSyDBAR\\ProyectoACSyDBAR\\DTOs\\CreateProductDTO.cs",
+              "RelativeDocumentMoniker": "ProyectoACSyDBAR\\DTOs\\CreateProductDTO.cs",
+              "ToolTip": "C:\\Users\\SEBASTIAN\\source\\repos\\ProyectoACSyDBAR\\ProyectoACSyDBAR\\DTOs\\CreateProductDTO.cs",
+              "RelativeToolTip": "ProyectoACSyDBAR\\DTOs\\CreateProductDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T22:41:31.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\SEBASTIAN\\source\\repos\\ProyectoACSyDBAR\\ProyectoACSyDBAR\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProyectoACSyDBAR\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\SEBASTIAN\\source\\repos\\ProyectoACSyDBAR\\ProyectoACSyDBAR\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProyectoACSyDBAR\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAuwF0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T22:46:02.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SEBASTIAN\\source\\repos\\ProyectoACSyDBAR\\ProyectoACSyDBAR\\Data\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProyectoACSyDBAR\\Data\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\SEBASTIAN\\source\\repos\\ProyectoACSyDBAR\\ProyectoACSyDBAR\\Data\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "ProyectoACSyDBAR\\Data\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAzwCEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T22:00:36.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculationsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SEBASTIAN\\source\\repos\\ProyectoACSyDBAR\\ProyectoACSyDBAR\\DTOs\\CalculationsDTO.cs",
+              "RelativeDocumentMoniker": "ProyectoACSyDBAR\\DTOs\\CalculationsDTO.cs",
+              "ToolTip": "C:\\Users\\SEBASTIAN\\source\\repos\\ProyectoACSyDBAR\\ProyectoACSyDBAR\\DTOs\\CalculationsDTO.cs",
+              "RelativeToolTip": "ProyectoACSyDBAR\\DTOs\\CalculationsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T03:57:34.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateProductoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SEBASTIAN\\source\\repos\\ProyectoACSyDBAR\\ProyectoACSyDBAR\\DTOs\\UpdateProductoDTO.cs",
+              "RelativeDocumentMoniker": "ProyectoACSyDBAR\\DTOs\\UpdateProductoDTO.cs",
+              "ToolTip": "C:\\Users\\SEBASTIAN\\source\\repos\\ProyectoACSyDBAR\\ProyectoACSyDBAR\\DTOs\\UpdateProductoDTO.cs",
+              "RelativeToolTip": "ProyectoACSyDBAR\\DTOs\\UpdateProductoDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T15:30:11.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\SEBASTIAN\\source\\repos\\ProyectoACSyDBAR\\ProyectoACSyDBAR\\Data\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "ProyectoACSyDBAR\\Data\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\SEBASTIAN\\source\\repos\\ProyectoACSyDBAR\\ProyectoACSyDBAR\\Data\\Models\\Producto.cs",
+              "RelativeToolTip": "ProyectoACSyDBAR\\Data\\Models\\Producto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T21:56:34.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SEBASTIAN\\source\\repos\\ProyectoACSyDBAR\\ProyectoACSyDBAR\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoACSyDBAR\\Program.cs",
+              "ToolTip": "C:\\Users\\SEBASTIAN\\source\\repos\\ProyectoACSyDBAR\\ProyectoACSyDBAR\\Program.cs",
+              "RelativeToolTip": "ProyectoACSyDBAR\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T22:57:12.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SEBASTIAN\\source\\repos\\ProyectoACSyDBAR\\ProyectoACSyDBAR\\Data\\Repository\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ProyectoACSyDBAR\\Data\\Repository\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\SEBASTIAN\\source\\repos\\ProyectoACSyDBAR\\ProyectoACSyDBAR\\Data\\Repository\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "ProyectoACSyDBAR\\Data\\Repository\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T22:12:31.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CalculationsController.cs",
+              "DocumentMoniker": "C:\\Users\\SEBASTIAN\\source\\repos\\ProyectoACSyDBAR\\ProyectoACSyDBAR\\Controllers\\CalculationsController.cs",
+              "RelativeDocumentMoniker": "ProyectoACSyDBAR\\Controllers\\CalculationsController.cs",
+              "ToolTip": "C:\\Users\\SEBASTIAN\\source\\repos\\ProyectoACSyDBAR\\ProyectoACSyDBAR\\Controllers\\CalculationsController.cs",
+              "RelativeToolTip": "ProyectoACSyDBAR\\Controllers\\CalculationsController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwEYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:34:57.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\SEBASTIAN\\source\\repos\\ProyectoACSyDBAR\\ProyectoACSyDBAR\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ProyectoACSyDBAR\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\SEBASTIAN\\source\\repos\\ProyectoACSyDBAR\\ProyectoACSyDBAR\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ProyectoACSyDBAR\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T16:05:32.43Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

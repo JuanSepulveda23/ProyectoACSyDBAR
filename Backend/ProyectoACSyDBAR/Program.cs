@@ -16,6 +16,16 @@ IMongoClient mongoClient = new MongoClient("mongodb://admin:adminpassword@localh
 builder.Services.AddSingleton(mongoClient);
 
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll", policy =>
+    {
+        policy.AllowAnyOrigin()
+              .AllowAnyMethod()
+              .AllowAnyHeader();
+    });
+});
   
 var app = builder.Build();
 
@@ -25,6 +35,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors("Allowall");
 
 app.UseHttpsRedirection();
 
